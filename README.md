@@ -4,7 +4,7 @@
 
 <br />
 
-[![Version](https://img.shields.io/badge/version-1.0.0-789c83?style=for-the-badge&labelColor=11191c)](https://github.com/YOUR-USERNAME/AmyraxSteamTools/releases/latest)
+[![Version](https://img.shields.io/badge/version-1.0.0-789c83?style=for-the-badge&labelColor=11191c)](https://github.com/AmyraxVPN-Main/AmyraxSteamTools/releases/latest)
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-789c83?style=for-the-badge&logo=windows11&logoColor=white&labelColor=11191c)
 ![Architecture](https://img.shields.io/badge/Architecture-x64-789c83?style=for-the-badge&labelColor=11191c)
 ![Languages](https://img.shields.io/badge/UI-فارسی%20%7C%20English-789c83?style=for-the-badge&labelColor=11191c)
