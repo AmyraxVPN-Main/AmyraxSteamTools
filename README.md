@@ -23,7 +23,7 @@
 
 <br /><br />
 
-<a href="https://github.com/YOUR-USERNAME/AmyraxSteamTools/releases/latest">
+<a href="https://github.com/AmyraxVPN-Main/AmyraxSteamTools/releases/latest">
   <img src="./assets/download-latest-animated.svg" width="540" alt="Download latest official AmyraxSteamTools release" />
 </a>
 
@@ -86,7 +86,7 @@ AmyraxVPN
 به‌روزرسانی خودکار داخل برنامه غیرفعال است. برای دریافت نسخه‌های جدید، همیشه از بخش رسمی **GitHub Releases** استفاده کنید:
 
 <div align="center">
-<a href="https://github.com/YOUR-USERNAME/AmyraxSteamTools/releases/latest">
+<a href="https://github.com/AmyraxVPN-Main/AmyraxSteamTools/releases/latest">
   <img src="./assets/download-latest-animated.svg" width="470" alt="Latest release" />
 </a>
 </div>
