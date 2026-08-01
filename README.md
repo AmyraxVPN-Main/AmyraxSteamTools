@@ -1,11 +1,3 @@
-<!--
-  IMPORTANT BEFORE PUBLISHING:
-  Replace YOUR-USERNAME below with your real GitHub username.
-  Keep the repository name AmyraxSteamTools, or replace it too.
-  Latest-release URL used by the download button:
-  https://github.com/YOUR-USERNAME/AmyraxSteamTools/releases/latest
--->
-
 <div align="center">
 
 <img src="./assets/amyrax-title-animated.svg" width="100%" alt="AmyraxSteamTools animated title" />
@@ -23,7 +15,7 @@
 
 <br /><br />
 
-<a href="https://github.com/AmyraxVPN-Main/AmyraxSteamTools/releases/latest">
+<a href="https://github.com/AmyraxVPN-Main/AmyraxSteamTools/releases/latest](https://github.com/AmyraxVPN-Main/AmyraxSteamTools/releases/download/v1.0.0/AmyraxSteamTools-v1.0.0-Setup.exe">
   <img src="./assets/download-latest-animated.svg" width="540" alt="Download latest official AmyraxSteamTools release" />
 </a>
 
@@ -86,7 +78,7 @@ AmyraxVPN
 به‌روزرسانی خودکار داخل برنامه غیرفعال است. برای دریافت نسخه‌های جدید، همیشه از بخش رسمی **GitHub Releases** استفاده کنید:
 
 <div align="center">
-<a href="https://github.com/AmyraxVPN-Main/AmyraxSteamTools/releases/latest">
+<a href="https://github.com/AmyraxVPN-Main/AmyraxSteamTools/releases/latest](https://github.com/AmyraxVPN-Main/AmyraxSteamTools/releases/latest](https://github.com/AmyraxVPN-Main/AmyraxSteamTools/releases/download/v1.0.0/AmyraxSteamTools-v1.0.0-Setup.exe">
   <img src="./assets/download-latest-animated.svg" width="470" alt="Latest release" />
 </a>
 </div>
