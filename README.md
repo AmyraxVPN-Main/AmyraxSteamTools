@@ -102,7 +102,7 @@ AmyraxVPN
 
 - **Name:** AmyraxSteamTools
 - **Developer:** Amyrax
-- **Version:** 1.0.0
+- **Version:** 1.1.4
 - **Telegram:** [@AmyraxVPN](https://t.me/AmyraxVPN)
 
 ---
